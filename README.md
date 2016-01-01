@@ -1,6 +1,6 @@
 # sample-react-rest
-Simple photo feed using react-rest
 ---
+Simple photo feed using react-rest
 
 ## Installation
 
